@@ -10,6 +10,12 @@ modula load cuda
 to activate virtual environment
 conda activate dl
 
+# navigate to storage location
+/glade/derecho/scratch/username
+
+# to copy files 
+scp local_path destination path
+
 # run .pbs file
 qsub filename.pbs
 
